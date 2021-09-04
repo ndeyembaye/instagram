@@ -1,0 +1,145 @@
+ 
+.telephone{
+  position: absolute;
+  top: 30px ;
+  left: 21%;
+}
+.phone1{
+    position: absolute;
+     left: 20px;
+}
+.phone2{
+    position: absolute;
+     left: 250px;
+}
+.formulaire{
+    position: absolute;
+    top: 40px;
+    left: 61%;
+    width: 300px;
+    height: 345px;
+    border: 1px solid gainsboro;
+     text-align: center;
+}
+#box_num{
+    margin-top: 30px;
+    margin-bottom: 5px;
+}
+.formulaire input{
+    padding: 7px 50px 4px 5px;
+    width: 200px;
+    background-color: gainsboro;
+    opacity: 50%;
+    border: 0.5px solid gray;
+    
+}
+.div_bouton{
+    margin-top: 20px;
+}
+button{
+    width: 255px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+     border: 0px;
+     background-color: blue;
+    opacity: 36%;
+    color: white;
+    font-size: 17px;
+}
+hr{
+
+    width: 98px;
+}
+.deuxieme_tire{
+    position: absolute;
+    top: 215px;
+    right: 30px;
+}
+.premier_tire{
+    position: absolute;
+    top: 215px;
+    left:  30px;
+}
+.connexion_facebook{
+    display: flex;
+    margin-left: 16%;
+}
+.connexion_facebook  a{
+    font-size: 14px;
+    text-decoration: none;
+}
+.oulie_mdp{
+    margin-top: 25px;
+    font-size: 14px;
+}
+.oulie_mdp a{
+    text-decoration: none;
+}
+/* creationd dee compte */
+.creation_compte{
+    position: absolute;
+    top: 400px;
+    left: 61%;
+    font-size: 14px;
+    width: 200px;
+     border: 1px solid gainsboro;
+     width: 300px;
+     text-align: center;
+}
+.creation_compte a{
+    text-decoration: none;
+}
+.download_app{
+    position: absolute;
+    top: 460px;
+    left: 66%;
+    font-size: 14px;
+}
+.download_app a{
+    text-decoration: none;
+}
+.lieu_de_telechargement{
+    display: flex;
+    position: absolute;
+    top: 500px;
+    left: 62%;
+}
+.lieu_de_telechargement div{
+    background-color: black;
+    width: 130px;
+    height: 45px;
+    border-radius:5px;
+}
+.appStore{
+     margin-right: 10px;
+}
+.lieu_de_telechargement div img{
+   margin-top: 10px;
+   margin-left: 8px;
+}
+.lieu_de_telechargement div p{
+    font-size: 12px;
+}
+.appStore p{
+    position: absolute;
+    top: 1px;
+    color: white;
+    left: 40px;
+}
+.playStor p{
+    position: absolute;
+    top: 1px;
+    color: white;
+    right:5px;
+    font-size: 12px;
+}
+.footer p{
+    font-size: 12px;
+    color: gray;
+    text-align: center;
+}
+.footer{
+    position: absolute;
+    left: 34%;
+    bottom: 10px;
+}
